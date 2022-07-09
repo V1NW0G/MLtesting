@@ -18,4 +18,4 @@ print(a)
 a = tokenize(a)
 print(a)
 stemmed_words = [stem(w) for w in a]
-print(stemmed_words)
+print(type(stemmed_words))
