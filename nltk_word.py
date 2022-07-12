@@ -13,6 +13,7 @@ def stem(word):
 def bag_of_words(tokenized_sentence, all_words):
     pass
 
+
 a = input("plz input ")
 print(a)
 a = tokenize(a)
